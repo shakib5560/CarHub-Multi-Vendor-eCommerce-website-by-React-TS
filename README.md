@@ -7,10 +7,10 @@ CarHub is a comprehensive multi-vendor eCommerce platform designed to facilitate
 ---
 
 ## Usage
-**Register as a seller: Create an account to list vehicles for sale.
-**Browse Vehicles: Search and filter vehicles by various criteria.
-**View Details: Access comprehensive details about each listing.
-**Responsive Interface: Use on any device, from desktop to mobile.
+- **Register as a seller**: Create an account to list vehicles for sale.
+- **Browse Vehicles**: Search and filter vehicles by various criteria.
+- **View Details**: Access comprehensive details about each listing.
+- **Responsive Interface**: Use on any device, from desktop to mobile.
 
 ---
 
