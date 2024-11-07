@@ -6,15 +6,11 @@ CarHub is a comprehensive multi-vendor eCommerce platform designed to facilitate
 
 ---
 
-## Table of Contents
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Tech Stack](#tech-stack)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## Usage
+**Register as a seller: Create an account to list vehicles for sale.
+**Browse Vehicles: Search and filter vehicles by various criteria.
+**View Details: Access comprehensive details about each listing.
+**Responsive Interface: Use on any device, from desktop to mobile.
 
 ---
 
@@ -34,3 +30,5 @@ CarHub is a comprehensive multi-vendor eCommerce platform designed to facilitate
 
 ```html
 <img src="https://i.ibb.co.com/BP60zHC/Screenshot-2024-11-07-210904.png" alt="CarHub Screenshot" width="600" />
+
+<p>Feel free to reach out with questions, suggestions, or to discuss collaboration opportunities!</p>
