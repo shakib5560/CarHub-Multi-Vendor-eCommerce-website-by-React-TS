@@ -1,0 +1,155 @@
+{
+    "Features": [
+      {
+        "label": "Air Conditioner",
+        "name": "airConditioner",
+        "fieldtype": "checkbox",
+        "placeholder": "Air Conditioner"
+      },
+      {
+        "label": "Digital Odometer",
+        "name": "digitalOdometer",
+        "fieldtype": "checkbox",
+        "placeholder": "Digital Odometer"
+      },
+      {
+        "label": "Heater",
+        "name": "heater",
+        "fieldtype": "checkbox",
+        "placeholder": "Heater"
+      },
+      {
+        "label": "Leather Seats",
+        "name": "leatherSeats",
+        "fieldtype": "checkbox",
+        "placeholder": "Leather Seats"
+      },
+      {
+        "label": "Panoramic Moonroof",
+        "name": "panoramicMoonroof",
+        "fieldtype": "checkbox",
+        "placeholder": "Panoramic Moonroof"
+      },
+      {
+        "label": "Tachometer",
+        "name": "tachometer",
+        "fieldtype": "checkbox",
+        "placeholder": "Tachometer"
+      },
+      {
+        "label": "Touchscreen Display",
+        "name": "touchscreenDisplay",
+        "fieldtype": "checkbox",
+        "placeholder": "Touchscreen Display"
+      },
+      {
+        "label": "Anti-lock Braking",
+        "name": "antiLockBraking",
+        "fieldtype": "checkbox",
+        "placeholder": "Anti-lock Braking"
+      },
+      {
+        "label": "Brake Assist",
+        "name": "brakeAssist",
+        "fieldtype": "checkbox",
+        "placeholder": "Brake Assist"
+      },
+      {
+        "label": "Child Safety Locks",
+        "name": "childSafetyLocks",
+        "fieldtype": "checkbox",
+        "placeholder": "Child Safety Locks"
+      },
+      {
+        "label": "Driver Air Bag",
+        "name": "driverAirBag",
+        "fieldtype": "checkbox",
+        "placeholder": "Driver Air Bag"
+      },
+      {
+        "label": "Power Door Locks",
+        "name": "powerDoorLocks",
+        "fieldtype": "checkbox",
+        "placeholder": "Power Door Locks"
+      },
+      {
+        "label": "Stability Control",
+        "name": "stabilityControl",
+        "fieldtype": "checkbox",
+        "placeholder": "Stability Control"
+      },
+      {
+        "label": "Traction Control",
+        "name": "tractionControl",
+        "fieldtype": "checkbox",
+        "placeholder": "Traction Control"
+      },
+      {
+        "label": "Fog Lights Front",
+        "name": "fogLightsFront",
+        "fieldtype": "checkbox",
+        "placeholder": "Fog Lights Front"
+      },
+      {
+        "label": "Rain Sensing Wiper",
+        "name": "rainSensingWiper",
+        "fieldtype": "checkbox",
+        "placeholder": "Rain Sensing Wiper"
+      },
+      {
+        "label": "Rear Spoiler",
+        "name": "rearSpoiler",
+        "fieldtype": "checkbox",
+        "placeholder": "Rear Spoiler"
+      },
+      {
+        "label": "Windows - Electric",
+        "name": "windowsElectric",
+        "fieldtype": "checkbox",
+        "placeholder": "Windows - Electric"
+      },
+      {
+        "label": "Comfort & Convenience",
+        "name": "comfortConvenience",
+        "fieldtype": "checkbox",
+        "placeholder": "Comfort & Convenience"
+      },
+      {
+        "label": "Android Auto",
+        "name": "androidAuto",
+        "fieldtype": "checkbox",
+        "placeholder": "Android Auto"
+      },
+      {
+        "label": "Apple CarPlay",
+        "name": "appleCarPlay",
+        "fieldtype": "checkbox",
+        "placeholder": "Apple CarPlay"
+      },
+      {
+        "label": "Bluetooth",
+        "name": "bluetooth",
+        "fieldtype": "checkbox",
+        "placeholder": "Bluetooth"
+      },
+      {
+        "label": "HomeLink",
+        "name": "homeLink",
+        "fieldtype": "checkbox",
+        "placeholder": "HomeLink"
+      },
+      {
+        "label": "Power Steering",
+        "name": "powerSteering",
+        "fieldtype": "checkbox",
+        "placeholder": "Power Steering"
+      },
+      {
+        "label": "Vanity Mirror",
+        "name": "vanityMirror",
+        "fieldtype": "checkbox",
+        "placeholder": "Vanity Mirror"
+      }
+    ]
+  }
+  

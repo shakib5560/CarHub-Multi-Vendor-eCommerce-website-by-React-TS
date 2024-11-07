@@ -1,0 +1,77 @@
+{
+    "Inputtype": [
+      {
+        "label": "Listing Title",
+        "name": "title",
+        "fieldtype": "text",
+        "required": true,
+        "placeholder": "Enter Title",
+        "icon": "FaClipboardList"
+      },
+      {
+        "label": "Car Make",
+        "name": "make",
+        "fieldtype": "text",
+        "required": true,
+        "placeholder": "Enter Car Make",
+        "icon": "FaCar"
+      },
+      {
+        "label": "Car Model",
+        "name": "model",
+        "fieldtype": "text",
+        "required": true,
+        "placeholder": "Enter Car Model",
+        "icon": "FaCarAlt"
+      },
+      {
+        "label": "Price",
+        "name": "price",
+        "fieldtype": "number",
+        "required": true,
+        "placeholder": "Enter Price",
+        "icon": "FaDollarSign"
+      },
+      {
+        "label": "Year",
+        "name": "year",
+        "fieldtype": "number",
+        "required": true,
+        "placeholder": "Enter Year",
+        "icon": "FaCalendarAlt"
+      },
+      {
+        "label": "Mileage",
+        "name": "mileage",
+        "fieldtype": "number",
+        "required": true,
+        "placeholder": "Enter Mileage",
+        "icon": "FaTachometerAlt"
+      },
+      {
+        "label": "Fuel Type",
+        "name": "fuelType",
+        "fieldtype": "select",
+        "required": true,
+        "options": ["Petrol", "Diesel", "Electric", "Hybrid"],
+        "icon": "FaGasPump"
+      },
+      {
+        "label": "Transmission",
+        "name": "transmission",
+        "fieldtype": "select",
+        "required": true,
+        "options": ["Automatic", "Manual"],
+        "icon": "FaCogs"
+      },
+      {
+        "label": "Description",
+        "name": "description",
+        "fieldtype": "textarea",
+        "required": false,
+        "placeholder": "Enter car description",
+        "icon": "FaEdit"
+      }
+    ]
+  }
+  
